@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 	:heavy_check_mark: Angular
 
 ## :beers: Sto lavorando con il mio team a...
- [Il clone del sito PancakeSwap](https://github.com/nadiromano/pancakesClone.git).
+ [Il clone del sito PancakeSwap](https://github.com/nadiromano/pancakeAngular.git).
  
  ## :bulb: I miei progetti personali sono...
+ [Un mini progetto Angular di esercitazione]
