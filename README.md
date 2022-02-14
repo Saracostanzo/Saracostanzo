@@ -29,4 +29,4 @@ Here are some ideas to get you started:
  [Il clone del sito PancakeSwap](https://github.com/nadiromano/pancakeAngular.git).
  
  ## :bulb: I miei progetti personali sono...
- [Un mini progetto Angular di esercitazione]
+ [Un mini progetto Angular di esercitazione](https://github.com/Saracostanzo/Prima-App-Angular-Demo.git).
