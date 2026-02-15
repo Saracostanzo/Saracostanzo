@@ -1,32 +1,26 @@
-### Ciao 👋
+# 👩‍💻 Sara Costanzo
 
-<!--
-##  Chi sini
-Here are some ideas to get you started:
+Frontend Developer con focus su Angular e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Chi Sono...
-#### Ciao, mi chiamo Sara e sono una ragazza creativa curiosa e determinata .
-#### Il mondo dello sviluppo web mi ha sempre incuriosita , ho sempre sognato  di poter avere le  competenze  tecniche  per potermi addentrare in questa realtà, così ho deciso di  iniziare a  gettare le fondamenta.
-### Qui  potrai trovare tutto ciò su cui mi sto formando  ed i miei primi progetti!
+Costruisco interfacce web moderne e strutturate, con attenzione alla qualità del codice e all’organizzazione dell’applicazione.
 
-## Atttualmente sto imparando...
-- 	:heavy_check_mark:  HTML5
-- 	:heavy_check_mark:  CSS
-- 	:heavy_check_mark: Javascript
-- 	:heavy_check_mark: TypeScrip
-- 	:heavy_check_mark: Angular
+Sto consolidando Angular in modo approfondito e ampliando le mie competenze verso il backend per crescere come sviluppatrice completa.
 
-## :beers: Sto lavorando con il mio team a...
- [Il clone del sito PancakeSwap](https://github.com/nadiromano/pancakeAngular.git).
- 
- ## :bulb: I miei progetti personali sono...
- [Un mini progetto Angular di esercitazione](https://github.com/Saracostanzo/Prima-App-Angular-Demo.git).
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Angular
+- Git & GitHub
+
+## 🚀 Cosa sto facendo ora
+- Rafforzando architettura e gestione dello stato in Angular
+- Lavorando su progetti pratici e concreti
+- Approfondendo le basi backend per ampliare il mio profilo tecnico
+
+## 🎯 Mentalità
+Ambizione, struttura e miglioramento continuo.
+
+## 📫 Contatti
+LinkedIn: linkedin.com/in/sara-costanzo
+Email: costanzosara.dev@gmail.com
